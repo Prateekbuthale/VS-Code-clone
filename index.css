@@ -1,0 +1,88 @@
+body{
+   background-color: #0e0e0e; 
+   font-size: larger;
+   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+div{
+   color: aliceblue;
+}
+input{
+   height: 35px;
+   border-radius: 4px;
+   border: none;
+   width: 200px;
+   background-color: #0e0e0e;
+   border: 1px solid #424242;
+   
+}
+button{
+   background-color: rgb(0, 153, 255);
+   width: 100px;
+   height: 35px;
+   border: none;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   border-radius: 4px;
+   font-size: 15;
+   color: white;
+}
+a{
+   color: rgb(0, 136, 255);
+
+}
+span{
+   color: aliceblue;
+   
+}
+#top{
+   margin-top: 10px;
+   padding-left: 100px;
+   padding-right: 100px;
+   align-items: center;
+}
+#version{
+   margin-top: 30px;
+   font-size: 15;
+   color: gray;
+}
+#VSC{
+   font-size: larger;
+}
+.topbar{
+   color: rgb(125, 125, 125);
+   margin-left: 20px;
+   font-size: 16;
+   cursor: pointer;
+   text-decoration: none;
+}
+.free{
+   padding: 8px 12px;
+   border-radius: 32px;
+   background-color: #171717;
+   width: max-content;
+   margin-bottom: 8px;
+   border: 1px solid #212121;
+}
+
+a:hover {
+   color: rgb(255, 255, 255);
+}
+
+button:hover {
+   background-color: #007dfb;
+   cursor: pointer;
+}
+.bigtext{
+   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+
+}
+
+.search{
+   background-image: url(https://code.visualstudio.com/assets/icons/search-dark.svg);
+   background-repeat:no-repeat;
+   background-position:left;  
+   padding-left:30px;   
+   background-position-x: 7px;
+}

@@ -17,7 +17,7 @@ input{
    
 }
 button{
-   background-color: rgb(0, 153, 255);
+   background-color: #0078d4;
    width: 100px;
    height: 35px;
    border: none;
@@ -29,7 +29,7 @@ button{
    color: white;
 }
 a{
-   color: rgb(0, 136, 255);
+   color: #4daafc;
 
 }
 span{
@@ -37,21 +37,21 @@ span{
    
 }
 #top{
-   margin-top: 10px;
+   margin-top: 15px;
    padding-left: 100px;
    padding-right: 100px;
-   align-items: center;
+   
 }
 #version{
    margin-top: 30px;
-   font-size: 15;
+   font-size: 14;
    color: gray;
 }
 #VSC{
    font-size: larger;
 }
 .topbar{
-   color: rgb(125, 125, 125);
+   color: #9ba3b4;
    margin-left: 20px;
    font-size: 16;
    cursor: pointer;
